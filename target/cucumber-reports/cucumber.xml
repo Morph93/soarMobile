@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="80.4" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Add code points" name="Scroll down and open my list, history and nearby while waiting for three seconds on each page and then go back to home page and scroll up." time="79.814">
+<system-out><![CDATA[
+When Scroll down............................................................passed
+And Open My lists page and wait three seconds...............................passed
+And Open History page and wait three seconds................................passed
+And Open Nearby page and wait three seconds.................................passed
+And Go back to Home page....................................................passed
+Then Scroll up to the top...................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
